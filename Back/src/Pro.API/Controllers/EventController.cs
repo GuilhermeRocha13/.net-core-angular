@@ -12,11 +12,25 @@ namespace Pro.API.Controllers
     [Route("[controller]")]
     public class EventController : ControllerBase
     {
-       [HttpGet]
-       public Event Get(){
-            return new Event(){
-                EventID = 1
+        public IEnumerable<Event> _event = new Event[]{
+                new Event(){
+                    EventID = 1
+                },
+                new Event(){
+                    EventID = 2
+                }
             };
-       }
+
+        [HttpGet]
+        public IEnumerable<Event> Get()
+        {
+            return _event;
+        }
+
+        [HttpGet("{id}")]
+        public IEnumerable<Event> Get(int id)
+        {
+            return _event.Where(e => e.EventID== id);
+        }
     }
 }
