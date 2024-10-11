@@ -10,7 +10,7 @@ namespace Pro.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class EventController : ControllerBase
+    public class EventsController : ControllerBase
     {
         public IEnumerable<Event> _event = new Event[]{
                 new Event(){

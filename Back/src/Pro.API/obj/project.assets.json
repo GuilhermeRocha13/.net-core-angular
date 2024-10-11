@@ -1298,11 +1298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular\\Back\\src\\Pro.API\\Pro.API.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular--event-platform\\Back\\src\\Pro.API\\Pro.API.csproj",
       "projectName": "Pro.API",
-      "projectPath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular\\Back\\src\\Pro.API\\Pro.API.csproj",
+      "projectPath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular--event-platform\\Back\\src\\Pro.API\\Pro.API.csproj",
       "packagesPath": "C:\\Users\\guilherme.rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular\\Back\\src\\Pro.API\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular--event-platform\\Back\\src\\Pro.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilherme.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",

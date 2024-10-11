@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D/AY3zQsNfE5o1Vp5GNvMAWDiZ7ZCLfnbY0dgMX8SLiQbwigzUwvZ64ed6uyAuoDyZ2Y7+saDEZIXw7eoK8u2A==",
+  "dgSpecHash": "wxdgmT93ti8may304bvVthemCVRt88GmL91hVN7/5u2z4vJdiSUQvloC+BGHe6H+4g32TuUN7Jmm/wPRFgL+kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular\\Back\\src\\Pro.API\\Pro.API.csproj",
+  "projectFilePath": "C:\\Users\\guilherme.rocha\\Documents\\GitHub\\.net-core-angular--event-platform\\Back\\src\\Pro.API\\Pro.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilherme.rocha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\guilherme.rocha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
